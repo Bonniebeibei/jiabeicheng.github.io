@@ -1,5 +1,5 @@
 ---
-title: "Scoring gene importance by interpreting single-cell foundation models"
+title: "Nature Biotechnology | Article  Scoring gene importance by interpreting single-cell foundation models"
 collection: paper_reading
 category: ai4bio
 permalink: /paper_reading/signature

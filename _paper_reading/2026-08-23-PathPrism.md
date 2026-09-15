@@ -1,5 +1,5 @@
 ---
-title: "Spatial biomarker discovery via interpretable semantic learning in histopathology"
+title: "Cancer Cell | Article  Spatial biomarker discovery via interpretable semantic learning in histopathology"
 collection: paper_reading
 category: ai4bio
 permalink: /paper_reading/pathprism

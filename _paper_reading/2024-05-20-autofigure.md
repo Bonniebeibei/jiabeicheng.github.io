@@ -1,5 +1,5 @@
 ---
-title: "(ICLR 2026) AUTOFIGURE: Generating and Refining Publication-Ready Scientific Illustrations"
+title: "ICLR 2026 | Conference Paper  AUTOFIGURE: Generating and Refining Publication-Ready Scientific Illustrations"
 collection: paper_reading
 category: autoresearch
 permalink: /paper_reading/autofigure

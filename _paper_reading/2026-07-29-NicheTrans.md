@@ -1,5 +1,5 @@
 ---
-title: "NicheTrans: spatial-aware cross-omics translation"
+title: "Nature Methods | Article  NicheTrans: spatial-aware cross-omics translation"
 collection: paper_reading
 category: ai4bio
 permalink: /paper_reading/nichetrans
