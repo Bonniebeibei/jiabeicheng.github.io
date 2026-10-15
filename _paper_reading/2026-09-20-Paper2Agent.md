@@ -11,7 +11,7 @@ permalink: /paper_reading/paper2agent
 
 ## Fig. 1：先证明“论文可以被系统地变成 agent”
 
-![Paper2Agent Figure 1](https://raw.githubusercontent.com/Bunnybeibei/jiabeicheng.github.io/master/images/Paper2Agent-fig1.png)
+![Paper2Agent Figure 1](https://raw.githubusercontent.com/Bonniebeibei/jiabeicheng.github.io/master/images/Paper2Agent-fig1.png)
 
 Fig. 1 是整篇文章的概念与工程地基，回答的问题是：Paper2Agent 到底把什么变成了什么，以及为什么生成的 agent 值得信任？
 
@@ -35,7 +35,7 @@ Fig. 1 是整篇文章的概念与工程地基，回答的问题是：Paper2Agen
 
 ## Fig. 2：再证明“做成 agent 后，它比直接让通用 AI 读代码更好用”
 
-![Paper2Agent Figure 2](https://raw.githubusercontent.com/Bunnybeibei/jiabeicheng.github.io/master/images/Paper2Agent-fig2.png)
+![Paper2Agent Figure 2](https://raw.githubusercontent.com/Bonniebeibei/jiabeicheng.github.io/master/images/Paper2Agent-fig2.png)
 
 Fig. 2 用 AlphaGenome 作为第一个完整案例，回答：代理化之后，是否真的覆盖原方法、答得更准、跑得更快，并能完成研究式推理？
 
@@ -51,7 +51,7 @@ Fig. 2 用 AlphaGenome 作为第一个完整案例，回答：代理化之后，
 
 ## Fig. 3：进一步证明“它能稳定复现复杂工作流，而不仅是单点工具调用”
 
-![Paper2Agent Figure 3](https://raw.githubusercontent.com/Bunnybeibei/jiabeicheng.github.io/master/images/Paper2Agent-fig3.png)
+![Paper2Agent Figure 3](https://raw.githubusercontent.com/Bonniebeibei/jiabeicheng.github.io/master/images/Paper2Agent-fig3.png)
 
 Fig. 3 转向 Scanpy，解决一个更普遍的问题：大量科研分析的难点不是一个函数，而是步骤顺序、参数选择和结果解释。
 
@@ -65,7 +65,7 @@ Fig. 3 转向 Scanpy，解决一个更普遍的问题：大量科研分析的难
 
 ## Fig. 4：最后证明“论文 agent 的价值不止复现，还能跨论文协作形成新证据”
 
-![Paper2Agent Figure 4](https://raw.githubusercontent.com/Bunnybeibei/jiabeicheng.github.io/master/images/Paper2Agent-fig4.png)
+![Paper2Agent Figure 4](https://raw.githubusercontent.com/Bonniebeibei/jiabeicheng.github.io/master/images/Paper2Agent-fig4.png)
 
 Fig. 4 是文章的终局论证，问题从“能否可靠复现已有方法”提升为：多个 paper agents 能否像跨学科研究团队那样整合独立证据，帮助科学发现？
 

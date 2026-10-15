@@ -33,7 +33,7 @@ Spatial biomarker 的发现尤其困难，因为组织异质性、复杂的空�
 
 ## Fig. 1：定义问题，并提出 PathPrism 的完整框架
 
-![PathPrism Figure 1](https://raw.githubusercontent.com/Bunnybeibei/jiabeicheng.github.io/master/images/PathPrism-fig1.png)
+![PathPrism Figure 1](https://raw.githubusercontent.com/Bonniebeibei/jiabeicheng.github.io/master/images/PathPrism-fig1.png)
 
 传统 pathology foundation model 可以预测，但内部通常是 latent embedding，很难进一步回答：**到底是哪一种可解释的组织空间结构与疾病有关？**
 
@@ -65,7 +65,7 @@ Spatial biomarker 的发现尤其困难，因为组织异质性、复杂的空�
 
 ## Fig. 2：证明 semantic tissue architecture 是有效的 disease representation
 
-![PathPrism Figure 2](https://raw.githubusercontent.com/Bunnybeibei/jiabeicheng.github.io/master/images/PathPrism-fig2.png)
+![PathPrism Figure 2](https://raw.githubusercontent.com/Bonniebeibei/jiabeicheng.github.io/master/images/PathPrism-fig2.png)
 
 Fig. 2 首先证明 PathPrism 的两个基础组件确实能够工作，即 **semantic tissue architecture 是一个足够强的 disease representation**。这一结果为后续只基于组织语义图而非完整 H&E morphology 进行模式解释和 biomarker 计算提供基础。
 
@@ -73,7 +73,7 @@ Fig. 2 首先证明 PathPrism 的两个基础组件确实能够工作，即 **se
 
 ## Fig. 3：发现应该量化什么样的空间模式
 
-![PathPrism Figure 3](https://raw.githubusercontent.com/Bunnybeibei/jiabeicheng.github.io/master/images/PathPrism-fig3.png)
+![PathPrism Figure 3](https://raw.githubusercontent.com/Bonniebeibei/jiabeicheng.github.io/master/images/PathPrism-fig3.png)
 
 Fig. 3 是 Fig. 4 设计 feature family 的 empirical rationale / motivation。它的逻辑是：
 
@@ -107,7 +107,7 @@ Fig. 3 是 Fig. 4 设计 feature family 的 empirical rationale / motivation。�
 
 ## Fig. 4：将候选模式数学化并扩展为 628 个 white-box features
 
-![PathPrism Figure 4](https://raw.githubusercontent.com/Bunnybeibei/jiabeicheng.github.io/master/images/PathPrism-fig4.png)
+![PathPrism Figure 4](https://raw.githubusercontent.com/Bonniebeibei/jiabeicheng.github.io/master/images/PathPrism-fig4.png)
 
 Fig. 4 把 Fig. 3 中发现的模式正式数学化、批量展开，并进行验证：
 
@@ -144,7 +144,7 @@ Fig. 4 把 Fig. 3 中发现的模式正式数学化、批量展开，并进行�
 
 ## Fig. 5：检验 spatial biomarker spectrum 的通用疾病表征能力
 
-![PathPrism Figure 5](https://raw.githubusercontent.com/Bunnybeibei/jiabeicheng.github.io/master/images/PathPrism-fig5.png)
+![PathPrism Figure 5](https://raw.githubusercontent.com/Bonniebeibei/jiabeicheng.github.io/master/images/PathPrism-fig5.png)
 
 Fig. 5 证明这个 spatial biomarker spectrum 不只是一种 prognosis representation，也是更通用的 disease representation。也就是说，这组可解释参数的价值不应局限于单一生存预测任务，而在于提供一个能够支持多种临床问题的共同空间描述空间。
 
@@ -152,7 +152,7 @@ Fig. 5 证明这个 spatial biomarker spectrum 不只是一种 prognosis represe
 
 ## Fig. 6：从统计学发现走向 biological hypothesis
 
-![PathPrism Figure 6](https://raw.githubusercontent.com/Bunnybeibei/jiabeicheng.github.io/master/images/PathPrism-fig6.png)
+![PathPrism Figure 6](https://raw.githubusercontent.com/Bonniebeibei/jiabeicheng.github.io/master/images/PathPrism-fig6.png)
 
 Fig. 6 将统计学发现进一步转化为 biological hypothesis。因为输入不再是抽象 latent dimension，而是具有病理语义的 tissue relationship、connectivity 或 fragmentation，LLM 才能够围绕这些概念组织已有知识并提出可检验的解释。
 
@@ -162,7 +162,7 @@ Fig. 6 将统计学发现进一步转化为 biological hypothesis。因为输入
 
 ## Fig. 7：从被动关联进入主动探索——VirtualWSI
 
-![PathPrism Figure 7](https://raw.githubusercontent.com/Bunnybeibei/jiabeicheng.github.io/master/images/PathPrism-fig7.png)
+![PathPrism Figure 7](https://raw.githubusercontent.com/Bonniebeibei/jiabeicheng.github.io/master/images/PathPrism-fig7.png)
 
 Fig. 7 通过 VirtualWSI 从“被动关联”进入“主动探索”。
 

@@ -32,19 +32,19 @@ My research interests primarily revolve around:
 * **KDD 2026**
     * **scTranslation: A Comprehensive Benchmark for Single-Cell Multi-Omics Modality Translation**
     * **Jiabei Cheng**, Jingbo Zhou, Jun Xia, Changkai Li, Zhen Lei, Chang Yu, Stan Z. Li
-    * [[Paper](https://arxiv.org/abs/2606.03906)] [[Github](https://github.com/Bunnybeibei/scTranslation)]
+    * [[Paper](https://arxiv.org/abs/2606.03906)] [[Github](https://github.com/Bonniebeibei/scTranslation)]
 * **NeurIPS 2025**
     * **PRESCRIBE: Predicting Single-Cell Responses with Bayesian Estimation**
     * **Jiabei Cheng**, Changxi Chi, Jingbo Zhou, Hongyi Xin, Jun Xia
-    * [[Paper](https://neurips.cc/virtual/2025/loc/san-diego/poster/119480)] [[Github](https://github.com/Bunnybeibei/PRESCRIBE)]
+    * [[Paper](https://neurips.cc/virtual/2025/loc/san-diego/poster/119480)] [[Github](https://github.com/Bonniebeibei/PRESCRIBE)]
 * **Briefings in Bioinformatics 2024**
     * **GexMolGen: cross-modal generation of hit-like molecules via large language model encoding of gene expression signatures**
     * **Jiabei Cheng**, Xiaoyong Pan, Yi Fang, Kaiyuan Yang, Yiming Xue, Qingran Yan, Ye Yuan
-    * [[Paper](https://academic.oup.com/bib/article-abstract/25/6/bbae525/7845937)] [[Github](https://github.com/Bunnybeibei/GexMolGen)]
+    * [[Paper](https://academic.oup.com/bib/article-abstract/25/6/bbae525/7845937)] [[Github](https://github.com/Bonniebeibei/GexMolGen)]
 * **BIBM 2024**
     * **GenoHoption: Bridging Gene Network Graphs and Single-Cell Foundation Models**
     * **Jiabei Cheng**, Jiachen Li, Kaiyuan Yang, Hongbin Shen, Ye Yuan
-    * [[Paper](https://ieeexplore.ieee.org/abstract/document/10822153/)] [[Github](https://github.com/Bunnybeibei/GenoHoption)]
+    * [[Paper](https://ieeexplore.ieee.org/abstract/document/10822153/)] [[Github](https://github.com/Bonniebeibei/GenoHoption)]
 * **Pattern Recognition 2025**
     * **Towards unified molecule-enhanced pathology image representation learning via integrating spatial transcriptomics**
     * Minghao Han, Dingkang Yang, **Jiabei Cheng**, Xukun Zhang, Zizhi Chen, Haopeng Kuang, Lihua Zhang

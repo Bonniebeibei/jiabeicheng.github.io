@@ -17,7 +17,7 @@ permalink: /paper_reading/nichetrans
 
 ## Motivation
 
-![NicheTrans Figure 1](https://raw.githubusercontent.com/Bunnybeibei/jiabeicheng.github.io/master/images/NicheTrans-fig1.png)
+![NicheTrans Figure 1](https://raw.githubusercontent.com/Bonniebeibei/jiabeicheng.github.io/master/images/NicheTrans-fig1.png)
 
 **Fig. 1a**：作者发现相同转录状态不一定对应相同的另一组学状态。（转录组和蛋白组表达并不一定对应）
 
@@ -29,7 +29,7 @@ permalink: /paper_reading/nichetrans
 
 ## 模型架构图
 
-![NicheTrans Figure 2](https://raw.githubusercontent.com/Bunnybeibei/jiabeicheng.github.io/master/images/NicheTrans-fig2.png)
+![NicheTrans Figure 2](https://raw.githubusercontent.com/Bonniebeibei/jiabeicheng.github.io/master/images/NicheTrans-fig2.png)
 
 **Fig. 2a**：作者把中心细胞和邻居组织成一个 niche
 
@@ -51,7 +51,7 @@ permalink: /paper_reading/nichetrans
 
 ### Fig. 3：刷点
 
-![NicheTrans Figure 3](https://raw.githubusercontent.com/Bunnybeibei/jiabeicheng.github.io/master/images/NicheTrans-fig3.png)
+![NicheTrans Figure 3](https://raw.githubusercontent.com/Bonniebeibei/jiabeicheng.github.io/master/images/NicheTrans-fig3.png)
 
 Fig3 是我们比较熟悉的刷点
 
@@ -63,7 +63,7 @@ Fig3 是我们比较熟悉的刷点
 
 ### Fig. 4：定性分析与作为下游模型输入
 
-![NicheTrans Figure 4](https://raw.githubusercontent.com/Bunnybeibei/jiabeicheng.github.io/master/images/NicheTrans-fig4.png)
+![NicheTrans Figure 4](https://raw.githubusercontent.com/Bonniebeibei/jiabeicheng.github.io/master/images/NicheTrans-fig4.png)
 
 Fig4 主要是定性分析，以及把 embedding 作为下游分析模型的输入
 
@@ -83,7 +83,7 @@ Fig4 主要是定性分析，以及把 embedding 作为下游分析模型的输�
 
 ### Fig. 5：跨个体 RNA → Aβ/p-tau
 
-![NicheTrans Figure 5](https://raw.githubusercontent.com/Bunnybeibei/jiabeicheng.github.io/master/images/NicheTrans-fig5.png)
+![NicheTrans Figure 5](https://raw.githubusercontent.com/Bonniebeibei/jiabeicheng.github.io/master/images/NicheTrans-fig5.png)
 
 **Fig. 5a-b** 建立单细胞级 AD 空间多组学数据；定义跨个体 RNA→Aβ/p-tau 任务；
 
@@ -95,7 +95,7 @@ Fig4 主要是定性分析，以及把 embedding 作为下游分析模型的输�
 
 ### Fig. 6：预测出的 Aβ 是否足以支持病理微环境发现
 
-![NicheTrans Figure 6](https://raw.githubusercontent.com/Bunnybeibei/jiabeicheng.github.io/master/images/NicheTrans-fig6.png)
+![NicheTrans Figure 6](https://raw.githubusercontent.com/Bonniebeibei/jiabeicheng.github.io/master/images/NicheTrans-fig6.png)
 
 主要是发现模型生成的 Aβ 位置周围确实富集着 Micro3–Astro3–Oligo1 组织结构。
 

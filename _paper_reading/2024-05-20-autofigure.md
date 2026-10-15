@@ -29,7 +29,7 @@ permalink: /paper_reading/autofigure
 ## 3. Methods (技术路线)
 AUTOFIGURE 采用了**推理渲染 (Reasoned Rendering)** 范式，将生成过程解构为三个阶段：
 
-![AUTOFIGURE 框架 Pipeline](https://raw.githubusercontent.com/Bunnybeibei/jiabeicheng.github.io/master/images/autofigure.png)
+![AUTOFIGURE 框架 Pipeline](https://raw.githubusercontent.com/Bonniebeibei/jiabeicheng.github.io/master/images/autofigure.png)
 
 ### Stage I: 概念提炼与布局生成
 * **语义解析**：将非结构化长文本转化为机器可读的**符号化布局**（SVG/HTML），明确几何形状和拓扑结构。

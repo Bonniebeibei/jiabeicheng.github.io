@@ -13,7 +13,7 @@ permalink: /paper_reading/signature
 
 ## 图 1：通过归因分数量化基因重要性
 
-![SIGnature Figure 1](https://raw.githubusercontent.com/Bunnybeibei/jiabeicheng.github.io/master/images/SIGnature-fig1.png)
+![SIGnature Figure 1](https://raw.githubusercontent.com/Bonniebeibei/jiabeicheng.github.io/master/images/SIGnature-fig1.png)
 
 **Fig. 1a–c** 描述了归因分数量化基因重要性的核心思想。作者通过与视觉图像归因方法类比，说明如何衡量某个基因对细胞在模型潜在空间中位置的贡献，并据此判断该基因对该细胞表征的重要性。
 
@@ -33,7 +33,7 @@ permalink: /paper_reading/signature
 
 ## 图 2：不同模型和归因方法如何影响 attribution score 的质量
 
-![SIGnature Figure 2](https://raw.githubusercontent.com/Bunnybeibei/jiabeicheng.github.io/master/images/SIGnature-fig2.png)
+![SIGnature Figure 2](https://raw.githubusercontent.com/Bonniebeibei/jiabeicheng.github.io/master/images/SIGnature-fig2.png)
 
 Fig. 2 主要回答三个问题：用哪个 foundation model？用哪种 attribution 方法？得到的 attribution score 是否比表达量更稳健、更有生物学意义？
 
@@ -43,7 +43,7 @@ Fig. 2 主要回答三个问题：用哪个 foundation model？用哪种 attribu
 
 ## 图 3：attribution 具有生物学意义、抗技术噪声，并支持跨研究 NMF
 
-![SIGnature Figure 3](https://raw.githubusercontent.com/Bunnybeibei/jiabeicheng.github.io/master/images/SIGnature-fig3.png)
+![SIGnature Figure 3](https://raw.githubusercontent.com/Bonniebeibei/jiabeicheng.github.io/master/images/SIGnature-fig3.png)
 
 Fig. 3 更像是 Fig. 1d 前三个图块的扩展，展开论证 attribution 的生物学意义、抗技术噪声和跨研究 NMF 能力。
 
@@ -59,7 +59,7 @@ Fig. 3 更像是 Fig. 1d 前三个图块的扩展，展开论证 attribution 的
 
 ## 图 4：mean attribution score 可以衡量 gene signature activation
 
-![SIGnature Figure 4](https://raw.githubusercontent.com/Bunnybeibei/jiabeicheng.github.io/master/images/SIGnature-fig4.png)
+![SIGnature Figure 4](https://raw.githubusercontent.com/Bonniebeibei/jiabeicheng.github.io/master/images/SIGnature-fig4.png)
 
 Fig. 4 展示 mean attribution score 在细胞身份识别上的应用，证明方法得到的 signature 确实学到了生物信号。
 
@@ -77,7 +77,7 @@ Fig. 4 展示 mean attribution score 在细胞身份识别上的应用，证明�
 
 ## 图 5：SIGnature 可以用于疾病图谱搜索并产生可实验验证的生物学发现
 
-![SIGnature Figure 5](https://raw.githubusercontent.com/Bunnybeibei/jiabeicheng.github.io/master/images/SIGnature-fig5.png)
+![SIGnature Figure 5](https://raw.githubusercontent.com/Bonniebeibei/jiabeicheng.github.io/master/images/SIGnature-fig5.png)
 
 Fig. 5 证明了 SIGnature 可以从大规模疾病图谱中发现 MS1-like 疾病相关状态。作者再以 Kawasaki disease (KD) 为重点，证明这种状态在表达程序和体外实验中都成立，并找到了一个体外诱导 MS1-like 表型的实验条件，即 KD serum。
 
