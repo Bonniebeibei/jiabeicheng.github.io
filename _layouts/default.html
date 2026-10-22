@@ -11,7 +11,7 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
-  <body>
+  <body{% if page.profile_page %} class="profile-page"{% elsif page.reading_page or page.collection == "paper_reading" %} class="profile-page reading-page"{% endif %}>
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}

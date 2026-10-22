@@ -9,5 +9,15 @@
 
 # main links
 main:
+  - title: "Short Bio"
+    url: /#short-bio
+  - title: "Publications"
+    url: /#publications
+  - title: "Education"
+    url: /#education
+  - title: "Academic Service"
+    url: /#academic-service
+  - title: "Hobbies"
+    url: /#hobbies
   - title: "Paper Reading"
     url: /paper_reading/

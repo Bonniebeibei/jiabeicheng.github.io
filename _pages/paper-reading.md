@@ -3,6 +3,7 @@ layout: archive
 title: "Paper Reading Notes"
 permalink: /paper_reading/
 author_profile: true
+reading_page: true
 ---
 
 {% include base_path %}
@@ -15,10 +16,6 @@ author_profile: true
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
-
-<div style="margin-top: 3em;"></div>
-
----
 
 ## 🧬 AI4Bio
 *Exploring deep learning applications in single-cell perturbation, multi-omics translation, and H&E-to-omics integration.*
