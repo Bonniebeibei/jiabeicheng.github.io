@@ -34,6 +34,10 @@ My research focuses on:
   **Jiabei Cheng**, Jiachen Li, Kaiyuan Yang, Hongbin Shen, Ye Yuan<br>
   *BIBM 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10822153/)] [[Code](https://github.com/Bonniebeibei/GenoHoption)]
 
+* **stFormer integrates spatial ligand signaling into a foundation model for spatial transcriptomics**<br>
+  Shenghao Cao, Kaiyuan Yang, **Jiabei Cheng**, Jiachen Li, Hong-Bin Shen, Xiaoyong Pan, Ye Yuan<br>
+  *Cell Reports Methods 2026*. [[Paper](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(26)00313-9)]
+
 * **Towards unified molecule-enhanced pathology image representation learning via integrating spatial transcriptomics**<br>
   Minghao Han, Dingkang Yang, **Jiabei Cheng**, Xukun Zhang, Zizhi Chen, Haopeng Kuang, Lihua Zhang<br>
   *Pattern Recognition 2025*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320325011215)]
@@ -60,7 +64,7 @@ My research focuses on:
 ## 🤝 Academic Service
 {: #academic-service}
 
-* **Conference Reviewer:** ICML, NeurIPS, ICLR
+* **Conference Reviewer:** ICML, NeurIPS, ICLR, CVPR
 * **Journal Reviewer:** Quantitative Biology
 
 ## 🎨 Hobbies
