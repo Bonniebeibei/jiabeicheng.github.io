@@ -50,6 +50,10 @@ My research focuses on:
   Kaiyuan Yang, **Jiabei Cheng**, Shenghao Cao, Xiaoyong Pan, Hong-bin Shen, Jin Cheng, Ye Yuan<br>
   *Bioinformatics 2024*. [[Paper](https://academic.oup.com/bioinformatics/article-abstract/41/7/btaf181/8118644)]
 
+* **Applications of artificial intelligence to lipid nanoparticle delivery**<br>
+  Ye Yuan, Yuqi Wu, **Jiabei Cheng**, Kaiyuan Yang, Yilin Xia, Hongguang Wu, Xiaoyong Pan<br>
+  *Particuology 2024*, 90, 88–97. [[Paper](https://www.sciencedirect.com/science/article/pii/S1674200123002997)]
+
 ## 📖 Education
 {: #education}
 
