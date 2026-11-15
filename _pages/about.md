@@ -54,6 +54,10 @@ My research focuses on:
   Ye Yuan, Yuqi Wu, **Jiabei Cheng**, Kaiyuan Yang, Yilin Xia, Hongguang Wu, Xiaoyong Pan<br>
   *Particuology 2024*, 90, 88–97. [[Paper](https://www.sciencedirect.com/science/article/pii/S1674200123002997)]
 
+* **Learning temperature-aware representations from millions of annotated protein sequences**<br>
+  Mingchen Li, Liang Zhang, Zilan Wang, Bozitao Zhong, Pan Tan, **Jiabei Cheng**, Bingxin Zhou, Liang Hong, Huiqun Yu<br>
+  *NeurIPS 2024 Workshop Foundation Models for Science: Progress, Opportunities, and Challenges* (Oral). [[Paper](https://openreview.net/forum?id=sOU2rNqo90)] [[Code](https://github.com/ginnm/ThermoFormer)]
+
 ## 📖 Education
 {: #education}
 
